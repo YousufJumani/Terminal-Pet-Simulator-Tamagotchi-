@@ -1,4 +1,6 @@
 # Terminal Pet Simulator (Tamagotchi)
+<img width="1920" height="1080" alt="Untitled design (5)" src="https://github.com/user-attachments/assets/e43701a9-ddb2-4696-a845-5a069465801c" />
+
 
 ## Problem It Solves
 This project teaches state management and game-loop logic in a simple CLI simulation.
@@ -31,3 +33,4 @@ g++ -std=c++17 -O2 .\src\main.cpp -o pet.exe
 - Add difficulty levels.
 - Add save/load using a text file.
 - Add multiple pet personalities.
+
